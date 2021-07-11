@@ -6,6 +6,7 @@ footer {
     border-color: #cccccc;
     text-align: center;
     position: fixed;
+    bottom: 0px;
 }
 footer p {
     vertical-align: center;
